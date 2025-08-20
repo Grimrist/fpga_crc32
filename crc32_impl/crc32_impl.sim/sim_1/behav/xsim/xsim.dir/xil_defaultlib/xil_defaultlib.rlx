@@ -1,0 +1,12 @@
+0.7
+2020.2
+May 21 2025
+22:59:56
+/home/moonflax/Coding/crc/crc32_impl/crc32_impl.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,uvm,,,,,,
+/home/moonflax/Coding/crc/crc32_impl/crc32_impl.srcs/sim_1/new/crc_tb.sv,1755660184,systemVerilog,,,,crc_tb,,uvm,../../../../../../../../../opt/Xilinx/2025.1/data/rsb/busdef,,,,,
+/home/moonflax/Coding/crc/crc32_impl/crc32_impl.srcs/sources_1/imports/display_multiplex/BCD_to_sevenSeg.sv,1745385706,systemVerilog,,/home/moonflax/Coding/crc/crc32_impl/crc32_impl.srcs/sources_1/imports/display_multiplex/counter.sv,,BCD_to_sevenSeg,,uvm,../../../../../../../../../opt/Xilinx/2025.1/data/rsb/busdef,,,,,
+/home/moonflax/Coding/crc/crc32_impl/crc32_impl.srcs/sources_1/imports/display_multiplex/counter.sv,1755646312,systemVerilog,,/home/moonflax/Coding/crc/crc32_impl/crc32_impl.srcs/sources_1/new/crc8.sv,,counter,,uvm,../../../../../../../../../opt/Xilinx/2025.1/data/rsb/busdef,,,,,
+/home/moonflax/Coding/crc/crc32_impl/crc32_impl.srcs/sources_1/imports/display_multiplex/display_controller.sv,1748972247,systemVerilog,,/home/moonflax/Coding/crc/crc32_impl/crc32_impl.srcs/sources_1/new/fsm_controller.sv,,display_controller,,uvm,../../../../../../../../../opt/Xilinx/2025.1/data/rsb/busdef,,,,,
+/home/moonflax/Coding/crc/crc32_impl/crc32_impl.srcs/sources_1/new/crc8.sv,1755660244,systemVerilog,,/home/moonflax/Coding/crc/crc32_impl/crc32_impl.srcs/sim_1/new/crc_tb.sv,,crc8,,uvm,../../../../../../../../../opt/Xilinx/2025.1/data/rsb/busdef,,,,,
+/home/moonflax/Coding/crc/crc32_impl/crc32_impl.srcs/sources_1/new/fsm_controller.sv,1755656112,systemVerilog,,/home/moonflax/Coding/crc/crc32_impl/crc32_impl.srcs/sources_1/new/top.sv,,fsm_controller,,uvm,../../../../../../../../../opt/Xilinx/2025.1/data/rsb/busdef,,,,,
+/home/moonflax/Coding/crc/crc32_impl/crc32_impl.srcs/sources_1/new/top.sv,1755656192,systemVerilog,,,,top,,uvm,../../../../../../../../../opt/Xilinx/2025.1/data/rsb/busdef,,,,,
